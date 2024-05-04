@@ -1,0 +1,14 @@
+api:
+  host: хост
+  port: порт
+
+auth:
+  secret-key: секретный ключ
+  duration: срок годности jwt токена (в днях)
+
+database:
+  host: хост
+  port: порт
+  username: логин
+  password: пароль
+  database: название базы
